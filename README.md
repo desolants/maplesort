@@ -3,5 +3,3 @@ A maplestory sorter with more features and filters that based on [execfera's Tou
 
 Latest changelog:
 6 August 2023 - Forked and started the project.
-
-Contributors are open
